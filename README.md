@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)
+![EfficientNet](https://img.shields.io/badge/Model-EfficientNet_B0-green)
+![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 PlantVillage Potato Disease Classification
 Deep Learning | Computer Vision | EfficientNet-B0 | PyTorch
 
