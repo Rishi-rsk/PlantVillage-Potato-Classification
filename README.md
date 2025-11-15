@@ -172,6 +172,6 @@ Campus Ambassador — Shoolini University
 B.Tech CSE (Artificial Intelligence)
 GitHub: https://github.com/Rishi-rsk
 
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/rishi-kulshresth/
 
 If you found this helpful, please ⭐ the repo!
