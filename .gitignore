@@ -1,0 +1,11 @@
+env/
+data/
+__pycache__/
+*.pth
+*.pt
+*.h5
+*.log
+.ipynb_checkpoints
+*.csv
+*.zip
+*.tar
